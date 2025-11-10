@@ -83,11 +83,12 @@ h2 {
 }
 
 .card img {
-  width: 80%;            /* shrink relative to card width */
-  height: auto;          /* keep aspect ratio */
-  display: block;        /* center horizontally */
-  margin: 0 auto 15px auto;
+  width: 70%;
+  height: auto;
   border-radius: 8px;
+  margin: auto;           /* centers image vertically & horizontally */
+  display: flex;          /* allows centering via margin:auto */
+  align-self: center;     /* ensures flex container centers it */
 }
 
 footer {
