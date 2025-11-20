@@ -57,7 +57,7 @@ h2 {
 .card h3 {
   margin-top: 0;
   font-size: 1.3em;
-  color: #a0c5de;
+  color: #1f608c;
 }
 
 .card p {
@@ -70,7 +70,7 @@ h2 {
 .card a {
   text-decoration: none;
   color: #ffffff;
-  background-color: #007acc;
+  background-color: #709bb8;
   padding: 10px 15px;
   border-radius: 6px;
   text-align: center;
@@ -79,7 +79,7 @@ h2 {
 }
 
 .card a:hover {
-  background-color: #005f99;
+  background-color: #4c86ad;
 }
 
 .card img {
